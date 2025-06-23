@@ -1,3 +1,3 @@
-Hi, I'm a passionate programmer & can code for hours on end, always eager to learn new technologies and have the ability to learn on my own.
+Hi, I'm a passionate programmer who can code for hours on end, always eager to learn new technologies and capable of self-directed learning.
 
-**[Click here](https://github.com/ayushkumar-maurya/BE-Projects)** to browse repository of my Projects created during BE days.
+**[Click here](https://github.com/ayushkumar-maurya/BE-Projects)**  to explore the repository of my BE projects.
